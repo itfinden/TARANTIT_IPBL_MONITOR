@@ -3,12 +3,12 @@
 {literal}   
 
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <!-- Optional theme -->
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 
 
-<link type="text/css" href="../modules/addons/ipblmonitor/3rdlib/js/bootstrap3-dialog/css/bootstrap-dialog.min.css" rel="stylesheet">
+<link type="text/css" href="../modules/addons/ipblmonitor/js/3rdlib/bootstrap3-dialog/css/bootstrap-dialog.min.css" rel="stylesheet">
 <script type="text/javascript" src="../modules/addons/ipblmonitor/js/3rdlib/bootstrap3-dialog/js/bootstrap-dialog.min.js"></script>
 
 
