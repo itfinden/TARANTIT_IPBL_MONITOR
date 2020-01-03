@@ -32,14 +32,14 @@
 <link type="text/css" href="../modules/addons/ipblmonitor/css/common.css" rel="Stylesheet" />
 
 
-    <script type="text/javascript" src="../modules/addons/ipblmonitor/js/common.js"></script>
+<script type="text/javascript" src="../modules/addons/ipblmonitor/js/common.js"></script>
 <script type="text/javascript" src="../modules/addons/ipblmonitor/js/adminui.js"></script>
 
 <script type="text/javascript" src="../modules/addons/ipblmonitor/js/3rdlib/Notify.js"></script>
 
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-    <link href="../modules/addons/ipblmonitor/js/3rdlib/jquery-ui-iconfont/jquery-ui-1.12.icon-font.css" rel="stylesheet" type="text/css" />
+<link href="../modules/addons/ipblmonitor/js/3rdlib/jquery-ui-iconfont/jquery-ui-1.12.icon-font.css" rel="stylesheet" type="text/css" />
 
 
 {/literal}  
